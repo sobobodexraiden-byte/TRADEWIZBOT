@@ -1409,7 +1409,7 @@ async function showMainMenu(ctx, edit = false) {
     }
     
     const message = `
-🚀 *Welcome to Trade Wiz Trading Bot* 🤖
+🚀 *Welcome to RICK TRADE BOT* 🤖
 *I'm your Web3 execution engine*.
 AI-driven. Battle-tested. Locked down.
 ━━━━━━━━━━━━━━━━━━
